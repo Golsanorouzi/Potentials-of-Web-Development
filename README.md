@@ -14,8 +14,10 @@ Through this project I learned:
 
 3- The process of creating and completing a new repository.
 
+### Screenshot
+![](image/Screen%20Shot%202022-07-11%20at%204.15.21%20PM.png)
 
-### References
+#### References
 https://www.youtube.com/watch?v=KcxmB6leB1c
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
