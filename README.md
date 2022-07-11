@@ -8,14 +8,14 @@ This project aimed to refactor the structure of semantic HTML elements without c
 ## What is learned through this project?
 Through this project I learned:
 
-1- The importance of accessibility standards in order for the site to be optimized for search engines.
+- The importance of accessibility standards in order for the site to be optimized for search engines.
 
-2- The importance of semantic HTML elements.
+- The importance of semantic HTML elements.
 
-3- The process of creating and completing a new repository.
+- The process of creating and completing a new repository.
 
 ### Screenshot
-![](image/Screen%20Shot%202022-07-11%20at%204.15.21%20PM.png)
+![](https://github.com/Golsanorouzi/Potentials-of-Web-Development/blob/main/assets/images/Screen%20Shot%202022-07-11%20at%204.15.21%20PM.png)
 
 #### References
 https://www.youtube.com/watch?v=KcxmB6leB1c
