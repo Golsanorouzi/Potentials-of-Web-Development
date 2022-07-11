@@ -20,3 +20,7 @@ https://www.youtube.com/watch?v=KcxmB6leB1c
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
 
 https://www.youtube.com/watch?v=a8CwpGARAsQ
+
+https://readme.so/editor
+
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
